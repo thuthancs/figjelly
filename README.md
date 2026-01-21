@@ -1,7 +1,10 @@
 # 🎨 figjelly - a collaborative design and thinking tool
 
 ## changelog
-- **jan 21**: added a canvas using `react-konva`, a feature where user can choose a shape and add it to the canvas
+- **jan 21**: added a canvas using `react-konva`, a feature where the user can choose a shape and add it to the canvas
+
+https://www.loom.com/share/a09c0c8752ad4c038b0cc9b64b77687d
+
 
 ## roadmap
 - [x] add a canvas & create feature
